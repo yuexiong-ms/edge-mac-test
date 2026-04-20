@@ -1,0 +1,232 @@
+{
+  "state_id": "s_ff0fd3c3",
+  "state_hash": "ff0fd3c35ae1",
+  "window_title": "[OOS] GitHub Sign-in Page",
+  "interactive_elements": [
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Back",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 48,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Refresh",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 84,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "View site information",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 124,
+      "y": 78,
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeTextField",
+      "label": "Address and search bar",
+      "eligible_actions": [
+        "TYPE"
+      ],
+      "x": 148,
+      "y": 78,
+      "width": 1269,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Add this page to favorites (⌘D)",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1421,
+      "y": 78,
+      "width": 24,
+      "height": 24,
+      "shortcut": "⌘D"
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Favorites",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1453,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "History",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1489,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Profile 4 Profile, Please sign in",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1525,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Settings and more",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1561,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Chat",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1597,
+      "y": 74,
+      "width": 75,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Copilot menu",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1672,
+      "y": 74,
+      "width": 24,
+      "height": 32
+    }
+  ],
+  "interactive_elements_count": 11,
+  "ui_tree": {
+    "tag": "Application",
+    "label": "Edge",
+    "children": [
+      {
+        "tag": "Window",
+        "label": "Sign in to GitHub · GitHub - Microsoft Edge - Profile 4",
+        "children": [
+          {
+            "tag": "Group",
+            "label": "Sign in to GitHub · GitHub - Microsoft Edge - Profile 4",
+            "children": [
+              {
+                "tag": "Group",
+                "children": [
+                  {
+                    "tag": "Toolbar",
+                    "label": "App bar",
+                    "children": [
+                      {
+                        "tag": "Button",
+                        "label": "Back"
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "Refresh"
+                      },
+                      {
+                        "tag": "Group",
+                        "children": [
+                          {
+                            "tag": "PopUpButton",
+                            "label": "View site information"
+                          },
+                          {
+                            "tag": "TextField",
+                            "label": "Address and search bar"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Add this page to favorites (⌘D)"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Group",
+                        "children": [
+                          {
+                            "tag": "Button",
+                            "label": "Favorites"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "History"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "Profile 4 Profile, Please sign in"
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "Settings and more"
+                      },
+                      {
+                        "tag": "Group",
+                        "children": [
+                          {
+                            "tag": "Button",
+                            "label": "Chat"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Copilot menu"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "TabGroup",
+                    "label": "Tab bar"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "Button"
+          },
+          {
+            "tag": "Button"
+          },
+          {
+            "tag": "Button"
+          }
+        ]
+      }
+    ]
+  },
+  "screenshot": "states/s_ff0fd3c3.png"
+}

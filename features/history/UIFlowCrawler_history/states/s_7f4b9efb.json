@@ -1,0 +1,1465 @@
+{
+  "state_id": "s_7f4b9efb",
+  "state_hash": "7f4b9efbd233",
+  "window_title": "Entry Opened in New Tab (OOS)",
+  "interactive_elements": [
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Refresh",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 106,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Home",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 142,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "View site information",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 182,
+      "y": 78,
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeTextField",
+      "label": "Address and search bar",
+      "eligible_actions": [
+        "TYPE"
+      ],
+      "x": 206,
+      "y": 78,
+      "width": 1180,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Add this page to favorites (⌘D)",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1390,
+      "y": 78,
+      "width": 24,
+      "height": 24,
+      "shortcut": "⌘D"
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "Extensions",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1422,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Favorites",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1463,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "History",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1499,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Screenshot",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1535,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Work Profile",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1571,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Settings and more",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1607,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Chat",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1643,
+      "y": 74,
+      "width": 75,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Tab groups",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 72,
+      "y": 112,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "Menu containing hidden favorites",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1501,
+      "y": 114,
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "Other Favorites",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1543,
+      "y": 112,
+      "width": 127,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeTextField",
+      "label": "Search history",
+      "eligible_actions": [
+        "TYPE"
+      ],
+      "x": 166,
+      "y": 223,
+      "width": 216,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "All",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 120,
+      "y": 264,
+      "width": 264,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Recently Closed",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 120,
+      "y": 296,
+      "width": 264,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Tabs From Other Devices",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 120,
+      "y": 328,
+      "width": 264,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "Filter By Date",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 777,
+      "y": 180,
+      "width": 134,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Export Browsing Data",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 910,
+      "y": 180,
+      "width": 186,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete Browsing Data",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1095,
+      "y": 180,
+      "width": 185,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Sign in to your account",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 270,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 264,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Sign in to your account",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 318,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 312,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Azure DevOps Services | Sign In",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 366,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 360,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "文档写完就落灰了，Skill 越用越活",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 414,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 408,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Azure DevOps Services | Sign In",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 462,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 456,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Sign in to your account",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 510,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 504,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Sign in to your account",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 558,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 552,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "qqmail - Search",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 606,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 600,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Azure DevOps Services | Sign In",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 654,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 648,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "pew 邀请码",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 702,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 696,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Sign in to Microsoft EMU",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 750,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 744,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "UIFlowCrawler/edge_features/edge_favorites at main · FSQ-lab/UIFlowCrawler",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 798,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 792,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "edge-mac-test/features/favorite at main · yuexiong-ms/edge-mac-test",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 846,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 840,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "登录QQ邮箱",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 894,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 888,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Engineering Hub",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 942,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 936,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "EvoMap/evolver: The GEP-Powered Self-Evolution Engine for AI Agents. Genome E...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 990,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 984,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "FSQ-lab/UIFlowCrawler",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 1038,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 1032,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "evolver - Search",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 1086,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 1080,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "QQ Mail",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 1134,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 1128,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "pew — show your tokens",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 1182,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 1176,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "GitHub",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 1230,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 1224,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Sign in to your account",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 1278,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 1272,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "nocoo (Zheng Li)",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 1326,
+      "width": 356,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 1320,
+      "width": 28,
+      "height": 26
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "pew — show your tokens",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 1345,
+      "width": 356,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1246,
+      "y": 1345,
+      "width": 28,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Azure DevOps Services | Sign In",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 528,
+      "y": 1345,
+      "width": 356,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "DeepL Translator",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1682,
+      "y": 114,
+      "width": 36,
+      "height": 36
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Search",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1682,
+      "y": 154,
+      "width": 36,
+      "height": 36
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Teams",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1682,
+      "y": 194,
+      "width": 36,
+      "height": 36
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Customize",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1682,
+      "y": 259,
+      "width": 36,
+      "height": 36
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Settings",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1682,
+      "y": 1310,
+      "width": 36,
+      "height": 36
+    }
+  ],
+  "interactive_elements_count": 76,
+  "ui_tree": {
+    "tag": "Application",
+    "label": "Edge",
+    "children": [
+      {
+        "tag": "Window",
+        "label": "History - Microsoft Edge - Work",
+        "children": [
+          {
+            "tag": "Group",
+            "label": "History - Microsoft Edge - Work",
+            "children": [
+              {
+                "tag": "Group",
+                "children": [
+                  {
+                    "tag": "Group",
+                    "children": [
+                      {
+                        "tag": "Toolbar",
+                        "label": "App bar",
+                        "children": [
+                          {
+                            "tag": "Button",
+                            "label": "Back"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Refresh"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Home"
+                          },
+                          {
+                            "tag": "PopUpButton",
+                            "label": "View site information"
+                          },
+                          {
+                            "tag": "TextField",
+                            "label": "Address and search bar"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Add this page to favorites (⌘D)"
+                          },
+                          {
+                            "tag": "PopUpButton",
+                            "label": "Extensions"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Favorites"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "History"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Screenshot"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Work Profile"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Settings and more"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Chat"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Toolbar",
+                        "label": "Favorites bar",
+                        "children": [
+                          {
+                            "tag": "Toolbar",
+                            "label": "Saved Tab Groups",
+                            "children": [
+                              {
+                                "tag": "Button",
+                                "label": "Tab groups"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Microsoft Dev Box"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "edge-quality - Microsoft Azure"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "ADO - Summary - Overview"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Edge Disable Test"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Weekly Data "
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Quality - Microsoft Azure"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Azure"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Become a Microsoft Edge Insider | Microsoft Edge"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "TITAN"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Visio | Microsoft 365"
+                          },
+                          {
+                            "tag": "PopUpButton",
+                            "label": "Menu containing hidden favorites"
+                          },
+                          {
+                            "tag": "PopUpButton",
+                            "label": "Other Favorites"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "WebView",
+                    "label": "History",
+                    "children": [
+                      {
+                        "tag": "Group",
+                        "children": [
+                          {
+                            "tag": "TextField",
+                            "label": "Search history"
+                          },
+                          {
+                            "tag": "Outline",
+                            "label": "History filters",
+                            "children": [
+                              {
+                                "tag": "OutlineRow",
+                                "label": "All"
+                              },
+                              {
+                                "tag": "OutlineRow",
+                                "label": "Recently Closed"
+                              },
+                              {
+                                "tag": "OutlineRow",
+                                "label": "Tabs From Other Devices"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "History",
+                            "children": [
+                              {
+                                "tag": "Group",
+                                "label": "All",
+                                "children": [
+                                  {
+                                    "tag": "PopUpButton",
+                                    "label": "Filter By Date"
+                                  },
+                                  {
+                                    "tag": "Button",
+                                    "label": "Export Browsing Data"
+                                  },
+                                  {
+                                    "tag": "Button",
+                                    "label": "Delete Browsing Data"
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "Other",
+                                "label": "All",
+                                "children": [
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Sign in to your account"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Sign in to your account"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Azure DevOps Services | Sign In"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "文档写完就落灰了，Skill 越用越活"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Azure DevOps Services | Sign In"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Sign in to your account"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Sign in to your account"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "qqmail - Search"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Azure DevOps Services | Sign In"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "pew 邀请码"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Sign in to Microsoft EMU"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "UIFlowCrawler/edge_features/edge_favorites at main · FSQ-lab/UIFlowCrawler"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "edge-mac-test/features/favorite at main · yuexiong-ms/edge-mac-test"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "登录QQ邮箱"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Engineering Hub"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "EvoMap/evolver: The GEP-Powered Self-Evolution Engine for AI Agents. Genome E..."
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "FSQ-lab/UIFlowCrawler"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "evolver - Search"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "QQ Mail"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "pew — show your tokens"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "GitHub"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Sign in to your account"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "nocoo (Zheng Li)"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "pew — show your tokens"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "MenuItem",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Azure DevOps Services | Sign In"
+                                      },
+                                      {
+                                        "tag": "Button",
+                                        "label": "Delete"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Toolbar",
+                    "label": "Side bar",
+                    "children": [
+                      {
+                        "tag": "Group",
+                        "children": [
+                          {
+                            "tag": "Button",
+                            "label": "DeepL Translator"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Search"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Teams"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "Customize"
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "Settings"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "TabGroup",
+                    "label": "Tab bar",
+                    "children": [
+                      {
+                        "tag": "Button",
+                        "label": "Workspace Button"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "Button"
+          },
+          {
+            "tag": "Button"
+          },
+          {
+            "tag": "Button"
+          }
+        ]
+      }
+    ]
+  },
+  "screenshot": "states/s_7f4b9efb.png"
+}
