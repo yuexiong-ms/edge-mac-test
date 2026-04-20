@@ -1,0 +1,1692 @@
+{
+  "state_id": "s_32eb1504",
+  "state_hash": "32eb1504e36a",
+  "window_title": "History Sidebar (Unpinned, after Unpin)",
+  "interactive_elements": [
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "History",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1179,
+      "y": 114,
+      "width": 70,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete Browsing Data",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1431,
+      "y": 116,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "More options",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1463,
+      "y": 116,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Pin history",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1495,
+      "y": 116,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeTab",
+      "label": "All",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1179,
+      "y": 194,
+      "width": 39,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeTab",
+      "label": "Recently Closed",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1217,
+      "y": 194,
+      "width": 118,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeTab",
+      "label": "Tabs From Other Devices",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1334,
+      "y": 194,
+      "width": 168,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Recent",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 233,
+      "width": 341,
+      "height": 320,
+      "has_children": true
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "E2E Coverage — Edge History, 7:42 PM, file:///Users/ljp-test-mac-mini/Project...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 265,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Git Credential Manager - Authentication Succeeded, 7:42 PM, http://127.0.0.1:...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 297,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "https://login.microsoft.com/72f988bf-86f1-41af-91ab-2d7cd011db47/fido/get?uif...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 329,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Sign in to your account, 7:37 PM, https://login.microsoftonline.com/72f988bf-...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 361,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Engineering Hub, 7:29 PM, https://eng.ms/#",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 393,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "browser-use/browser-harness: Self-healing browser harness that enables LLMs t...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 425,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "EvoMap/evolver: The GEP-Powered Self-Evolution Engine for AI Agents. Genome E...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 457,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Lordog/dive-into-llms: 《动手学大模型Dive into LLMs》系列编程实践教程, 7:26 PM, https://githu...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 489,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Agency, 7:26 PM, https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 521,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Today - Sunday, April 19, 2026",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 553,
+      "width": 341,
+      "height": 196,
+      "has_children": true
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Sign in to your account, 4:15 PM, https://login.microsoftonline.com/72f988bf-...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 585,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "文档写完就落灰了，Skill 越用越活, 4:15 PM, https://mp.weixin.qq.com/s/w8OIOK0ETp9ZR3pq_DCdKQ",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 617,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "qqmail - Search, 4:15 PM, https://www.bing.com/search?qs=CT&pq=qq&sk=CSYN1&sc...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 649,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "pew 邀请码, 4:15 PM, https://loop.cloud.microsoft/p/eyJ1IjoiaHR0cHM6Ly9taWNyb3Nv...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 681,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Sign in to Microsoft EMU, 4:15 PM, https://github.com/enterprises/microsoft/s...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 713,
+      "width": 341,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "UIFlowCrawler/edge_features/edge_favorites at main · FSQ-lab/UIFlowCrawler, 4...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 745,
+      "width": 341,
+      "height": 4
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "edge-mac-test/features/favorite at main · yuexiong-ms/edge-mac-test, 4:15 PM,...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "登录QQ邮箱, 4:15 PM, https://wx.mail.qq.com/?err=expired&from=network_client",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "FSQ-lab/UIFlowCrawler, 4:15 PM, https://github.com/FSQ-lab/UIFlowCrawler/tree...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "evolver - Search, 4:15 PM, https://www.bing.com/search?pglt=2211&q=evolver&cv...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "pew — show your tokens, 4:15 PM, https://pew.md/",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "GitHub, 4:15 PM, https://github.com/",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "nocoo (Zheng Li), 4:14 PM, https://github.com/nocoo",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "What's new in Microsoft Edge, 4:14 PM, https://www.microsoft.com/en-us/edge/u...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Sign in is not complete, 4:14 PM, https://microsoft.sharepoint.com/_forms/def...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Friday, April 17, 2026",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1,
+      "has_children": true
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "个人资料 - Morgan Stanley at Work, 7:07 AM, https://atwork.morganstanley.com/soli...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "消息 - Morgan Stanley at Work, 7:07 AM, https://atwork.morganstanley.com/solium...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Broker comparison grid, 7:04 AM, https://microsoft.sharepoint.com/sites/HRweb...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Join conversation, 7:01 AM, https://teams.microsoft.com/dl/launcher/launcher....",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Access and Contacts for Your Stock Accounts, 6:59 AM, https://microsoft.share...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Microsoft Word - BCM Client Document_20180302.docx, 6:58 AM, https://www.morg...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "联系我们 - Morgan Stanley at Work, 6:56 AM, https://atwork.morganstanley.com/soli...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Morgan Stanley at Work控制板, 6:55 AM, https://atwork.morganstanley.com/solium/s...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "购股和持股 - Morgan Stanley at Work, 6:54 AM, https://atwork.morganstanley.com/sol...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "过往活动 - Morgan Stanley at Work, 6:54 AM, https://atwork.morganstanley.com/soli...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "登录要求 - Morgan Stanley at Work, 6:52 AM, https://atwork.morganstanley.com/soli...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "atwork.morganstanley.com/solium/servlet/ui, 6:52 AM, https://atwork.morgansta...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Morgan Stanley at Work - StockPlan Connect, 6:51 AM, https://atwork.morgansta...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Morgan Stanley at Work - Login, 6:51 AM, https://atwork.morganstanley.com/sol...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "morgan stanley - Search, 6:49 AM, https://cn.bing.com/search?filters=ufn%3a%2...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "[Edge] bugbash - Boards, 6:45 AM, https://microsoft.visualstudio.com/Edge/_qu...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Pipelines - Run 20260313.1, 6:44 AM, https://microsoft.visualstudio.com/Edge/...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "https://microsoftapc-my.sharepoint.com/:x:/r/personal/liujingping_microsoft_c...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Mac Test.xlsx, 6:44 AM, https://microsoftapc-my.sharepoint.com/:x:/r/personal...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Summary - Overview, 6:44 AM, https://microsoft.visualstudio.com/Edge",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Quality Push, 6:44 AM, https://loop.cloud.microsoft/p/eyJ3Ijp7InUiOiJodHRwczo...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Team - Bug Status, 6:44 AM, https://edge-quality.azurewebsites.net/quality_pl...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Release Calendar - Edge Quality, 6:44 AM, https://edge-quality.azurewebsites....",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Settings · Test management (Edge) - Settings, 6:44 AM, https://dev.azure.com/...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "https://edgeteam.ms/.auth/login/aad/callback, 6:44 AM, https://edgeteam.ms/.a...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Azure DevOps Services | Sign In, 6:43 AM, https://microsoft.visualstudio.com/...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Bug 61449338: [Mac]Address Bar Requires Multiple Clicks to Select URL, 6:43 A...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Bug 59392196: Multi-tab: When hovering over the tabs in 'Add tabs' section, t...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "spsprodwus24.vssps.visualstudio.com/_msal/_popup#code=1.ARoAv4j5cvGGr0GRqy180...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Pipelines - Run 20260412.2, 6:43 AM, https://dev.azure.com/microsoft/Edge/_bu...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "https://microsoft.sharepoint.com/, 6:43 AM, https://microsoft.sharepoint.com/",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Bug 61748776: Make default action for Google search engine does not take effe...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "https://microsoft.visualstudio.com/_public/_MsalSignedIn, 6:43 AM, https://mi...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "ms.portal.azure.com/auth/login/#, 6:43 AM, https://ms.portal.azure.com/auth/l...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "How to test web applications (such as admin dashboards) on macOS? Is there a ...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Dashboard — Copilot Gateway, 6:42 AM, https://copilot.ljp-copilot.workers.dev...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "pew — show your tokens, 4:44 AM, https://pew.md/dashboard",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Login Successful, 4:27 AM, http://localhost:58550/callback?api_key=pk_2c721c6...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Welcome, 4:27 AM, https://accounts.google.com/v3/signin/challenge/pwd?TL=AIgt...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Sign in - Google Accounts, 4:26 AM, https://accounts.google.com/v3/signin/ide...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "pew 邀请码, 4:26 AM, https://loop.cloud.microsoft/p/eyJ1IjoiaHR0cHM6Ly9taWNyb3Nv...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Google Account, 4:21 AM, https://myaccount.google.com/?hl=en&utm_source=sign_...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Security Checkup, 4:21 AM, https://myaccount.google.com/security-checkup/1?co...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Add a recovery phone, 4:20 AM, https://myaccount.google.com/collection/recove...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1175,
+      "y": 748,
+      "width": 341,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Refresh",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 106,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Home",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 142,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "File",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 182,
+      "y": 78,
+      "width": 53,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeTextField",
+      "label": "Address and search bar",
+      "eligible_actions": [
+        "TYPE"
+      ],
+      "x": 235,
+      "y": 78,
+      "width": 1151,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Add this page to favorites (⌘D)",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1390,
+      "y": 78,
+      "width": 24,
+      "height": 24,
+      "shortcut": "⌘D"
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "Extensions",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1422,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Favorites",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1463,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "History",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1499,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Screenshot",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1535,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Work Profile",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1571,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Settings and more",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1607,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Chat",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1643,
+      "y": 74,
+      "width": 75,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Tab groups",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 72,
+      "y": 112,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "Menu containing hidden favorites",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1501,
+      "y": 114,
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "Other Favorites",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1543,
+      "y": 112,
+      "width": 127,
+      "height": 28
+    }
+  ],
+  "interactive_elements_count": 93,
+  "ui_tree": {
+    "tag": "Application",
+    "label": "Edge",
+    "children": [
+      {
+        "tag": "Window",
+        "label": "History",
+        "children": [
+          {
+            "tag": "Group",
+            "label": "History",
+            "children": [
+              {
+                "tag": "WebView",
+                "label": "History",
+                "children": [
+                  {
+                    "tag": "Button",
+                    "label": "History"
+                  },
+                  {
+                    "tag": "Toolbar",
+                    "children": [
+                      {
+                        "tag": "Button",
+                        "label": "Delete Browsing Data"
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "More options"
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "Pin history"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "SearchField",
+                    "label": "Search history",
+                    "children": [
+                      {
+                        "tag": "TextField"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "TabGroup",
+                    "children": [
+                      {
+                        "tag": "Tab",
+                        "label": "All"
+                      },
+                      {
+                        "tag": "Tab",
+                        "label": "Recently Closed"
+                      },
+                      {
+                        "tag": "Tab",
+                        "label": "Tabs From Other Devices"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Outline",
+                    "children": [
+                      {
+                        "tag": "OutlineRow",
+                        "label": "Recent",
+                        "children": [
+                          {
+                            "tag": "OutlineRow",
+                            "label": "E2E Coverage — Edge History, 7:42 PM, file:///Users/ljp-test-mac-mini/Project..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Git Credential Manager - Authentication Succeeded, 7:42 PM, http://127.0.0.1:..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "https://login.microsoft.com/72f988bf-86f1-41af-91ab-2d7cd011db47/fido/get?uif..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Sign in to your account, 7:37 PM, https://login.microsoftonline.com/72f988bf-..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Engineering Hub, 7:29 PM, https://eng.ms/#"
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "browser-use/browser-harness: Self-healing browser harness that enables LLMs t..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "EvoMap/evolver: The GEP-Powered Self-Evolution Engine for AI Agents. Genome E..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Lordog/dive-into-llms: 《动手学大模型Dive into LLMs》系列编程实践教程, 7:26 PM, https://githu..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Agency, 7:26 PM, https://eng.ms/docs/coreai/devdiv/one-engineering-system-1es..."
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "OutlineRow",
+                        "label": "Today - Sunday, April 19, 2026",
+                        "children": [
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Sign in to your account, 4:15 PM, https://login.microsoftonline.com/72f988bf-..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "文档写完就落灰了，Skill 越用越活, 4:15 PM, https://mp.weixin.qq.com/s/w8OIOK0ETp9ZR3pq_DCdKQ"
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "qqmail - Search, 4:15 PM, https://www.bing.com/search?qs=CT&pq=qq&sk=CSYN1&sc..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "pew 邀请码, 4:15 PM, https://loop.cloud.microsoft/p/eyJ1IjoiaHR0cHM6Ly9taWNyb3Nv..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Sign in to Microsoft EMU, 4:15 PM, https://github.com/enterprises/microsoft/s..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "UIFlowCrawler/edge_features/edge_favorites at main · FSQ-lab/UIFlowCrawler, 4..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "edge-mac-test/features/favorite at main · yuexiong-ms/edge-mac-test, 4:15 PM,..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "登录QQ邮箱, 4:15 PM, https://wx.mail.qq.com/?err=expired&from=network_client"
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "FSQ-lab/UIFlowCrawler, 4:15 PM, https://github.com/FSQ-lab/UIFlowCrawler/tree..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "evolver - Search, 4:15 PM, https://www.bing.com/search?pglt=2211&q=evolver&cv..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "pew — show your tokens, 4:15 PM, https://pew.md/"
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "GitHub, 4:15 PM, https://github.com/"
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "nocoo (Zheng Li), 4:14 PM, https://github.com/nocoo"
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "What's new in Microsoft Edge, 4:14 PM, https://www.microsoft.com/en-us/edge/u..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Sign in is not complete, 4:14 PM, https://microsoft.sharepoint.com/_forms/def..."
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "OutlineRow",
+                        "label": "Friday, April 17, 2026",
+                        "children": [
+                          {
+                            "tag": "OutlineRow",
+                            "label": "个人资料 - Morgan Stanley at Work, 7:07 AM, https://atwork.morganstanley.com/soli..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "消息 - Morgan Stanley at Work, 7:07 AM, https://atwork.morganstanley.com/solium..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Broker comparison grid, 7:04 AM, https://microsoft.sharepoint.com/sites/HRweb..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Join conversation, 7:01 AM, https://teams.microsoft.com/dl/launcher/launcher...."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Access and Contacts for Your Stock Accounts, 6:59 AM, https://microsoft.share..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Microsoft Word - BCM Client Document_20180302.docx, 6:58 AM, https://www.morg..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "联系我们 - Morgan Stanley at Work, 6:56 AM, https://atwork.morganstanley.com/soli..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Morgan Stanley at Work控制板, 6:55 AM, https://atwork.morganstanley.com/solium/s..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "购股和持股 - Morgan Stanley at Work, 6:54 AM, https://atwork.morganstanley.com/sol..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "过往活动 - Morgan Stanley at Work, 6:54 AM, https://atwork.morganstanley.com/soli..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "登录要求 - Morgan Stanley at Work, 6:52 AM, https://atwork.morganstanley.com/soli..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "atwork.morganstanley.com/solium/servlet/ui, 6:52 AM, https://atwork.morgansta..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Morgan Stanley at Work - StockPlan Connect, 6:51 AM, https://atwork.morgansta..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Morgan Stanley at Work - Login, 6:51 AM, https://atwork.morganstanley.com/sol..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "morgan stanley - Search, 6:49 AM, https://cn.bing.com/search?filters=ufn%3a%2..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "[Edge] bugbash - Boards, 6:45 AM, https://microsoft.visualstudio.com/Edge/_qu..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Pipelines - Run 20260313.1, 6:44 AM, https://microsoft.visualstudio.com/Edge/..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "https://microsoftapc-my.sharepoint.com/:x:/r/personal/liujingping_microsoft_c..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Mac Test.xlsx, 6:44 AM, https://microsoftapc-my.sharepoint.com/:x:/r/personal..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Summary - Overview, 6:44 AM, https://microsoft.visualstudio.com/Edge"
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Quality Push, 6:44 AM, https://loop.cloud.microsoft/p/eyJ3Ijp7InUiOiJodHRwczo..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Team - Bug Status, 6:44 AM, https://edge-quality.azurewebsites.net/quality_pl..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Release Calendar - Edge Quality, 6:44 AM, https://edge-quality.azurewebsites...."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Settings · Test management (Edge) - Settings, 6:44 AM, https://dev.azure.com/..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "https://edgeteam.ms/.auth/login/aad/callback, 6:44 AM, https://edgeteam.ms/.a..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Azure DevOps Services | Sign In, 6:43 AM, https://microsoft.visualstudio.com/..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Bug 61449338: [Mac]Address Bar Requires Multiple Clicks to Select URL, 6:43 A..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Bug 59392196: Multi-tab: When hovering over the tabs in 'Add tabs' section, t..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "spsprodwus24.vssps.visualstudio.com/_msal/_popup#code=1.ARoAv4j5cvGGr0GRqy180..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Pipelines - Run 20260412.2, 6:43 AM, https://dev.azure.com/microsoft/Edge/_bu..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "https://microsoft.sharepoint.com/, 6:43 AM, https://microsoft.sharepoint.com/"
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Bug 61748776: Make default action for Google search engine does not take effe..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "https://microsoft.visualstudio.com/_public/_MsalSignedIn, 6:43 AM, https://mi..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "ms.portal.azure.com/auth/login/#, 6:43 AM, https://ms.portal.azure.com/auth/l..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "How to test web applications (such as admin dashboards) on macOS? Is there a ..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Dashboard — Copilot Gateway, 6:42 AM, https://copilot.ljp-copilot.workers.dev..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "pew — show your tokens, 4:44 AM, https://pew.md/dashboard"
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Login Successful, 4:27 AM, http://localhost:58550/callback?api_key=pk_2c721c6..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Welcome, 4:27 AM, https://accounts.google.com/v3/signin/challenge/pwd?TL=AIgt..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Sign in - Google Accounts, 4:26 AM, https://accounts.google.com/v3/signin/ide..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "pew 邀请码, 4:26 AM, https://loop.cloud.microsoft/p/eyJ1IjoiaHR0cHM6Ly9taWNyb3Nv..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Google Account, 4:21 AM, https://myaccount.google.com/?hl=en&utm_source=sign_..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Security Checkup, 4:21 AM, https://myaccount.google.com/security-checkup/1?co..."
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Add a recovery phone, 4:20 AM, https://myaccount.google.com/collection/recove..."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "Window",
+        "label": "E2E Coverage — Edge History - Microsoft Edge - Work",
+        "children": [
+          {
+            "tag": "Group",
+            "label": "E2E Coverage — Edge History - Microsoft Edge - Work",
+            "children": [
+              {
+                "tag": "Group",
+                "children": [
+                  {
+                    "tag": "Group",
+                    "children": [
+                      {
+                        "tag": "Toolbar",
+                        "label": "App bar",
+                        "children": [
+                          {
+                            "tag": "Button",
+                            "label": "Back"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Refresh"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Home"
+                          },
+                          {
+                            "tag": "PopUpButton",
+                            "label": "File"
+                          },
+                          {
+                            "tag": "TextField",
+                            "label": "Address and search bar"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Add this page to favorites (⌘D)"
+                          },
+                          {
+                            "tag": "PopUpButton",
+                            "label": "Extensions"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Favorites"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "History"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Screenshot"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Work Profile"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Settings and more"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Chat"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Toolbar",
+                        "label": "Favorites bar",
+                        "children": [
+                          {
+                            "tag": "Toolbar",
+                            "label": "Saved Tab Groups",
+                            "children": [
+                              {
+                                "tag": "Button",
+                                "label": "Tab groups"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Microsoft Dev Box"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "edge-quality - Microsoft Azure"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "ADO - Summary - Overview"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Edge Disable Test"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Weekly Data "
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Quality - Microsoft Azure"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Azure"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Become a Microsoft Edge Insider | Microsoft Edge"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "TITAN"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Visio | Microsoft 365"
+                          },
+                          {
+                            "tag": "PopUpButton",
+                            "label": "Menu containing hidden favorites"
+                          },
+                          {
+                            "tag": "PopUpButton",
+                            "label": "Other Favorites"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "WebView",
+                    "label": "E2E Coverage — Edge History"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "screenshot": "states/s_32eb1504.png"
+}

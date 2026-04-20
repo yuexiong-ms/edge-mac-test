@@ -1,0 +1,1052 @@
+{
+  "state_id": "s_b6d1bbcb",
+  "state_hash": "b6d1bbcbe6e8",
+  "window_title": "History Sidebar Delete Entry Confirmation Dialog",
+  "interactive_elements": [
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Cancel",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1290,
+      "y": 241,
+      "width": 96,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1394,
+      "y": 241,
+      "width": 96,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Refresh",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 84,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeTextField",
+      "label": "Address and search bar",
+      "eligible_actions": [
+        "TYPE"
+      ],
+      "x": 148,
+      "y": 78,
+      "width": 1269,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Edit favorite for this page (⌘D)",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1421,
+      "y": 78,
+      "width": 24,
+      "height": 24,
+      "shortcut": "⌘D"
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Favorites",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1453,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "History",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1489,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Profile 4 Profile, Please sign in",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1525,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Settings and more",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1561,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Chat",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1597,
+      "y": 74,
+      "width": 75,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Copilot menu",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1672,
+      "y": 74,
+      "width": 24,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Tab groups",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 50,
+      "y": 112,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "検索",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 464,
+      "y": 316,
+      "width": 51,
+      "height": 47
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Copilot と会話する",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1180,
+      "y": 321,
+      "width": 37,
+      "height": 37
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Copilot を開く",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1224,
+      "y": 323,
+      "width": 33,
+      "height": 33
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "アプリ起動ツール",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 72,
+      "y": 157,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "東京: 曇り, 15 °C",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 1275,
+      "y": 157,
+      "width": 181,
+      "height": 40
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "地域と言語",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1455,
+      "y": 157,
+      "width": 72,
+      "height": 40
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "ページ設定",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1527,
+      "y": 157,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "クリックして Microsoft Edge にサインイン",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1575,
+      "y": 158,
+      "width": 82,
+      "height": 38,
+      "has_children": true
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "クリックして Microsoft Edge にサインイン",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1576,
+      "y": 159,
+      "width": 80,
+      "height": 36
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Microsoft 365",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 445,
+      "y": 421,
+      "width": 74,
+      "height": 17
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "楽天市場",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 543,
+      "y": 421,
+      "width": 48,
+      "height": 17
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Amazon",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 629,
+      "y": 421,
+      "width": 46,
+      "height": 17
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Hero Wars",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 708,
+      "y": 421,
+      "width": 58,
+      "height": 17
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Trip.com",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 798,
+      "y": 421,
+      "width": 48,
+      "height": 17
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Outlook",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 886,
+      "y": 421,
+      "width": 42,
+      "height": 17
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Yahoo!メール",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 955,
+      "y": 421,
+      "width": 74,
+      "height": 17
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Following",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 1051,
+      "y": 421,
+      "width": 52,
+      "height": 17
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "無料ゲーム",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 1132,
+      "y": 421,
+      "width": 60,
+      "height": 17
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "サイトの追加",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 1208,
+      "y": 421,
+      "width": 78,
+      "height": 17
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "背景の編集",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 48,
+      "y": 1300,
+      "width": 1,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "背景の表示",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 48,
+      "y": 1332,
+      "width": 1,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "ページの更新",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 48,
+      "y": 1345,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "MSN",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 90,
+      "y": 1303,
+      "width": 69,
+      "height": 36
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "トップ",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 181,
+      "y": 1308,
+      "width": 47,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "マンガ",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 258,
+      "y": 1308,
+      "width": 47,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "ニュース",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 324,
+      "y": 1308,
+      "width": 58,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "スポーツ",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 401,
+      "y": 1308,
+      "width": 61,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "カジュアル ゲーム",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 481,
+      "y": 1308,
+      "width": 119,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "マネー",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 619,
+      "y": 1308,
+      "width": 47,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "天気",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 685,
+      "y": 1308,
+      "width": 33,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "ビデオ",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 737,
+      "y": 1308,
+      "width": 47,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "ショッピング",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 803,
+      "y": 1308,
+      "width": 89,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "フィード設定",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1315,
+      "y": 1305,
+      "width": 193,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "フィードの個人用設定\"",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1515,
+      "y": 1305,
+      "width": 124,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Help and Feedback",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1668,
+      "y": 1343,
+      "width": 1,
+      "height": 1
+    }
+  ],
+  "interactive_elements_count": 47,
+  "ui_tree": {
+    "tag": "Application",
+    "label": "Edge",
+    "children": [
+      {
+        "tag": "Window",
+        "label": "History",
+        "children": [
+          {
+            "tag": "Group",
+            "label": "History",
+            "children": [
+              {
+                "tag": "Group",
+                "label": "Delete these pages?",
+                "children": [
+                  {
+                    "tag": "Button",
+                    "label": "Cancel"
+                  },
+                  {
+                    "tag": "Button",
+                    "label": "Delete"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "Window",
+        "label": "New Tab - Microsoft Edge - Profile 4",
+        "children": [
+          {
+            "tag": "Group",
+            "label": "New Tab - Microsoft Edge - Profile 4",
+            "children": [
+              {
+                "tag": "Group",
+                "children": [
+                  {
+                    "tag": "Group",
+                    "children": [
+                      {
+                        "tag": "Toolbar",
+                        "label": "App bar",
+                        "children": [
+                          {
+                            "tag": "Button",
+                            "label": "Back"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Refresh"
+                          },
+                          {
+                            "tag": "Group",
+                            "children": [
+                              {
+                                "tag": "TextField",
+                                "label": "Address and search bar"
+                              },
+                              {
+                                "tag": "Button",
+                                "label": "Edit favorite for this page (⌘D)"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Group",
+                            "children": [
+                              {
+                                "tag": "Button",
+                                "label": "Favorites"
+                              },
+                              {
+                                "tag": "Button",
+                                "label": "History"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Profile 4 Profile, Please sign in"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Settings and more"
+                          },
+                          {
+                            "tag": "Group",
+                            "children": [
+                              {
+                                "tag": "Button",
+                                "label": "Chat"
+                              },
+                              {
+                                "tag": "Button",
+                                "label": "Copilot menu"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Toolbar",
+                        "label": "Favorites bar",
+                        "children": [
+                          {
+                            "tag": "Toolbar",
+                            "label": "Saved Tab Groups",
+                            "children": [
+                              {
+                                "tag": "Button",
+                                "label": "Tab groups"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "New Tab"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Test Favorite"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "New Tab"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "New folder"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "New Tab"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "New folder"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "New folder"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "New Tab"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "New folder"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "New folder"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Test Folder Name"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "WebView",
+                    "label": "New Tab",
+                    "children": [
+                      {
+                        "tag": "Group",
+                        "children": [
+                          {
+                            "tag": "Group",
+                            "children": [
+                              {
+                                "tag": "Group",
+                                "children": [
+                                  {
+                                    "tag": "Group",
+                                    "label": "検索",
+                                    "children": [
+                                      {
+                                        "tag": "Button",
+                                        "label": "検索"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "Button",
+                                    "label": "Copilot と会話する"
+                                  },
+                                  {
+                                    "tag": "Group",
+                                    "label": "Copilot を開く",
+                                    "children": [
+                                      {
+                                        "tag": "Button",
+                                        "label": "Copilot を開く"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "Button",
+                                "label": "アプリ起動ツール",
+                                "children": [
+                                  {
+                                    "tag": "Button",
+                                    "label": "アプリ起動ツール"
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "Group",
+                                "children": [
+                                  {
+                                    "tag": "Link",
+                                    "label": "東京: 曇り, 15 °C"
+                                  },
+                                  {
+                                    "tag": "Group",
+                                    "label": "地域と言語",
+                                    "children": [
+                                      {
+                                        "tag": "Button",
+                                        "label": "地域と言語"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "Group",
+                                    "label": "ページ設定",
+                                    "children": [
+                                      {
+                                        "tag": "Button",
+                                        "label": "ページ設定"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "Button",
+                                    "label": "クリックして Microsoft Edge にサインイン",
+                                    "children": [
+                                      {
+                                        "tag": "Button",
+                                        "label": "クリックして Microsoft Edge にサインイン"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "Group",
+                                "children": [
+                                  {
+                                    "tag": "Group",
+                                    "label": "Microsoft 365",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Microsoft 365"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "Group",
+                                    "label": "楽天市場",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "楽天市場"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "Group",
+                                    "label": "Amazon",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Amazon"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "Group",
+                                    "label": "Hero Wars",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Hero Wars"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "Group",
+                                    "label": "Trip.com",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Trip.com"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "Group",
+                                    "label": "Outlook",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Outlook"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "Group",
+                                    "label": "Yahoo!メール",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Yahoo!メール"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "Group",
+                                    "label": "Following",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "Following"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "Group",
+                                    "label": "無料ゲーム",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "無料ゲーム"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "サイトの追加"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Group",
+                            "children": [
+                              {
+                                "tag": "Button",
+                                "label": "背景の編集"
+                              },
+                              {
+                                "tag": "Button",
+                                "label": "背景の表示"
+                              },
+                              {
+                                "tag": "Button",
+                                "label": "ページの更新"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Group",
+                            "children": [
+                              {
+                                "tag": "Group",
+                                "children": [
+                                  {
+                                    "tag": "Link",
+                                    "label": "MSN"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "トップ"
+                                  },
+                                  {
+                                    "tag": "Other",
+                                    "children": [
+                                      {
+                                        "tag": "Link",
+                                        "label": "マンガ"
+                                      },
+                                      {
+                                        "tag": "Link",
+                                        "label": "ニュース"
+                                      },
+                                      {
+                                        "tag": "Link",
+                                        "label": "スポーツ"
+                                      },
+                                      {
+                                        "tag": "Link",
+                                        "label": "カジュアル ゲーム"
+                                      },
+                                      {
+                                        "tag": "Link",
+                                        "label": "マネー"
+                                      },
+                                      {
+                                        "tag": "Link",
+                                        "label": "天気"
+                                      },
+                                      {
+                                        "tag": "Link",
+                                        "label": "ビデオ"
+                                      },
+                                      {
+                                        "tag": "Link",
+                                        "label": "ショッピング"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "Group",
+                                "label": "フィード設定",
+                                "children": [
+                                  {
+                                    "tag": "PopUpButton",
+                                    "label": "フィード設定"
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "Group",
+                                "label": "フィードの個人用設定\"",
+                                "children": [
+                                  {
+                                    "tag": "Button",
+                                    "label": "フィードの個人用設定\""
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Help and Feedback",
+                            "children": [
+                              {
+                                "tag": "Button",
+                                "label": "Help and Feedback"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "TabGroup",
+                    "label": "Tab bar"
+                  }
+                ]
+              },
+              {
+                "tag": "Group",
+                "label": "History",
+                "children": [
+                  {
+                    "tag": "Group",
+                    "label": "Delete these pages?",
+                    "children": [
+                      {
+                        "tag": "Button",
+                        "label": "Cancel"
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "Delete"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "Button"
+          },
+          {
+            "tag": "Button"
+          },
+          {
+            "tag": "Button"
+          }
+        ]
+      }
+    ]
+  },
+  "screenshot": "states/s_b6d1bbcb.png"
+}

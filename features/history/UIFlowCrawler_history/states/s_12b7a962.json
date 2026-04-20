@@ -1,0 +1,975 @@
+{
+  "state_id": "s_12b7a962",
+  "state_hash": "12b7a962ee06",
+  "window_title": "Tabs From Other Devices Section",
+  "interactive_elements": [
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Back",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 70,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Refresh",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 106,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Home",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 142,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "View site information",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 182,
+      "y": 78,
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeTextField",
+      "label": "Address and search bar",
+      "eligible_actions": [
+        "TYPE"
+      ],
+      "x": 206,
+      "y": 78,
+      "width": 1156,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "This site can see text and images copied to the clipboard.",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1390,
+      "y": 78,
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Add this page to favorites (⌘D)",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1366,
+      "y": 78,
+      "width": 24,
+      "height": 24,
+      "shortcut": "⌘D"
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "Extensions",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1422,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Favorites",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1463,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "History",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1499,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Screenshot",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1535,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Work Profile",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1571,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Settings and more",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1607,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Chat",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1643,
+      "y": 74,
+      "width": 75,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Tab groups",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 72,
+      "y": 112,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "Menu containing hidden favorites",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1501,
+      "y": 114,
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "Other Favorites",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1543,
+      "y": 112,
+      "width": 127,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeTextField",
+      "label": "Search tabs from other devices",
+      "eligible_actions": [
+        "TYPE"
+      ],
+      "x": 166,
+      "y": 223,
+      "width": 216,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "All",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 120,
+      "y": 264,
+      "width": 264,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Recently Closed",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 120,
+      "y": 296,
+      "width": 264,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Tabs From Other Devices",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 120,
+      "y": 328,
+      "width": 264,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "Actions",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1244,
+      "y": 220,
+      "width": 36,
+      "height": 36
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Lordog/dive-into-llms: 《动手学大模型Dive into LLMs》系列编程实践教程",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 272,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "What's new in Microsoft Edge",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 318,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "MAI C3 Meetup Registration",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 366,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Working...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 414,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Checking link",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 462,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "How to test web applications (such as admin dashboards) on macOS? Is there a ...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 510,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Experiences Dashboard - Edge Quality",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 558,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "QualityAssistantBot - Microsoft Azure",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 606,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Bug 60900168 Edge Mac PWA exited when drag a downloaded item that do not exist",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 654,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Pipelines - Run 20260313.1",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 702,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Working...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 750,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "FSQ - Dashboards - Grafana",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 798,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Pipelines - Run 20260412.2",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 846,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "[Edge] FSQ found bugs - without mobile - Boards",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 894,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Working...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 942,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Edge Mac Shiproom - Current.pptx",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 990,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Sign in to your account",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 1038,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Bug 59392196 Multi-tab: When hovering over the tabs in 'Add tabs' section, te...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 1086,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Release Dates | Edge Team",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 1134,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Edge Mac - Bug Status",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 1182,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "[BUG] [Latest 30d] Escaped Bugs - Boards",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 1230,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "OCV - [Mac]user reports edge using high memory (GPU)",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 1278,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Sign in to your account",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 1326,
+      "width": 390,
+      "height": 16
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Sign in to your account",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 1345,
+      "width": 390,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeLink",
+      "label": "Quality Push",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK"
+      ],
+      "x": 500,
+      "y": 1345,
+      "width": 390,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "DeepL Translator",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1682,
+      "y": 114,
+      "width": 36,
+      "height": 36
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Search",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1682,
+      "y": 154,
+      "width": 36,
+      "height": 36
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Teams",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1682,
+      "y": 194,
+      "width": 36,
+      "height": 36
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Customize",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1682,
+      "y": 259,
+      "width": 36,
+      "height": 36
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Settings",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1682,
+      "y": 1310,
+      "width": 36,
+      "height": 36
+    }
+  ],
+  "interactive_elements_count": 52,
+  "ui_tree": {
+    "tag": "Application",
+    "label": "Edge",
+    "children": [
+      {
+        "tag": "Window",
+        "label": "History - Microsoft Edge - Work",
+        "children": [
+          {
+            "tag": "Group",
+            "label": "History - Microsoft Edge - Work",
+            "children": [
+              {
+                "tag": "Group",
+                "children": [
+                  {
+                    "tag": "Group",
+                    "children": [
+                      {
+                        "tag": "Toolbar",
+                        "label": "App bar",
+                        "children": [
+                          {
+                            "tag": "Button",
+                            "label": "Back"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Refresh"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Home"
+                          },
+                          {
+                            "tag": "PopUpButton",
+                            "label": "View site information"
+                          },
+                          {
+                            "tag": "TextField",
+                            "label": "Address and search bar"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "This site can see text and images copied to the clipboard."
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Add this page to favorites (⌘D)"
+                          },
+                          {
+                            "tag": "PopUpButton",
+                            "label": "Extensions"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Favorites"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "History"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Screenshot"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Work Profile"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Settings and more"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Chat"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Toolbar",
+                        "label": "Favorites bar",
+                        "children": [
+                          {
+                            "tag": "Toolbar",
+                            "label": "Saved Tab Groups",
+                            "children": [
+                              {
+                                "tag": "Button",
+                                "label": "Tab groups"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Microsoft Dev Box"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "edge-quality - Microsoft Azure"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "ADO - Summary - Overview"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Edge Disable Test"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Weekly Data "
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Quality - Microsoft Azure"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Azure"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Become a Microsoft Edge Insider | Microsoft Edge"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "TITAN"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Visio | Microsoft 365"
+                          },
+                          {
+                            "tag": "PopUpButton",
+                            "label": "Menu containing hidden favorites"
+                          },
+                          {
+                            "tag": "PopUpButton",
+                            "label": "Other Favorites"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "WebView",
+                    "label": "History",
+                    "children": [
+                      {
+                        "tag": "Group",
+                        "children": [
+                          {
+                            "tag": "TextField",
+                            "label": "Search tabs from other devices"
+                          },
+                          {
+                            "tag": "Outline",
+                            "label": "History filters",
+                            "children": [
+                              {
+                                "tag": "OutlineRow",
+                                "label": "All"
+                              },
+                              {
+                                "tag": "OutlineRow",
+                                "label": "Recently Closed"
+                              },
+                              {
+                                "tag": "OutlineRow",
+                                "label": "Tabs From Other Devices"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "History",
+                            "children": [
+                              {
+                                "tag": "Group",
+                                "label": "Tabs From Other Devices"
+                              },
+                              {
+                                "tag": "Other",
+                                "label": "Tabs From Other Devices",
+                                "children": [
+                                  {
+                                    "tag": "Group",
+                                    "children": [
+                                      {
+                                        "tag": "PopUpButton",
+                                        "label": "Actions"
+                                      },
+                                      {
+                                        "tag": "Link",
+                                        "label": "Lordog/dive-into-llms: 《动手学大模型Dive into LLMs》系列编程实践教程"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "What's new in Microsoft Edge"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "MAI C3 Meetup Registration"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Working..."
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Checking link"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "How to test web applications (such as admin dashboards) on macOS? Is there a ..."
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Experiences Dashboard - Edge Quality"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "QualityAssistantBot - Microsoft Azure"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Bug 60900168 Edge Mac PWA exited when drag a downloaded item that do not exist"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Pipelines - Run 20260313.1"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Working..."
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "FSQ - Dashboards - Grafana"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Pipelines - Run 20260412.2"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "[Edge] FSQ found bugs - without mobile - Boards"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Working..."
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Edge Mac Shiproom - Current.pptx"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Sign in to your account"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Bug 59392196 Multi-tab: When hovering over the tabs in 'Add tabs' section, te..."
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Release Dates | Edge Team"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Edge Mac - Bug Status"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "[BUG] [Latest 30d] Escaped Bugs - Boards"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "OCV - [Mac]user reports edge using high memory (GPU)"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Sign in to your account"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Sign in to your account"
+                                  },
+                                  {
+                                    "tag": "Link",
+                                    "label": "Quality Push"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Toolbar",
+                    "label": "Side bar",
+                    "children": [
+                      {
+                        "tag": "Group",
+                        "children": [
+                          {
+                            "tag": "Button",
+                            "label": "DeepL Translator"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Search"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Teams"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "Customize"
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "Settings"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "TabGroup",
+                    "label": "Tab bar",
+                    "children": [
+                      {
+                        "tag": "Button",
+                        "label": "Workspace Button"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "Button"
+          },
+          {
+            "tag": "Button"
+          },
+          {
+            "tag": "Button"
+          }
+        ]
+      }
+    ]
+  },
+  "screenshot": "states/s_12b7a962.png"
+}

@@ -1,0 +1,792 @@
+{
+  "state_id": "s_b298df01",
+  "state_hash": "b298df01bb63",
+  "window_title": "[OOS] Delete Browsing Data Settings Page",
+  "interactive_elements": [
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "History",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1169,
+      "y": 114,
+      "width": 70,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Delete Browsing Data",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1421,
+      "y": 116,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "More options",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1453,
+      "y": 116,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Pin history",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1485,
+      "y": 116,
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "XCUIElementTypeTab",
+      "label": "All",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1169,
+      "y": 194,
+      "width": 39,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeTab",
+      "label": "Recently Closed",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1207,
+      "y": 194,
+      "width": 118,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeTab",
+      "label": "Tabs From Other Devices",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1324,
+      "y": 194,
+      "width": 168,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Today - Friday, April 17, 2026",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1165,
+      "y": 233,
+      "width": 352,
+      "height": 128,
+      "has_children": true
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "E2E Coverage — Microsoft Edge, 2:32 AM, file:///Users/ljp-test-mac-mini/Proje...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1165,
+      "y": 265,
+      "width": 352,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Sign in to GitHub · GitHub, 2:11 AM, https://github.com/login?client_id=0120e...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1165,
+      "y": 297,
+      "width": 352,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Checking link, 1:44 AM, https://teams.df.onecdn.static.microsoft/evergreen-as...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1165,
+      "y": 329,
+      "width": 352,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Yesterday - Thursday, April 16, 2026",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1165,
+      "y": 361,
+      "width": 352,
+      "height": 128,
+      "has_children": true
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "Sign in to GitHub · GitHub, 7:24 PM, https://github.com/login?client_id=0120e...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1165,
+      "y": 393,
+      "width": 352,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "edge//settings/appearance - Search, 2:23 AM, https://www.bing.com/search?pglt...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1165,
+      "y": 425,
+      "width": 352,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeOutlineRow",
+      "label": "fix(appium): use macos:click for tap_coordinates on macOS by liujingping · Pu...",
+      "eligible_actions": [
+        "CLICK",
+        "RIGHT_CLICK",
+        "DRAG"
+      ],
+      "x": 1165,
+      "y": 457,
+      "width": 352,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Refresh",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 84,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "View site information",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 124,
+      "y": 78,
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeTextField",
+      "label": "Address and search bar",
+      "eligible_actions": [
+        "TYPE"
+      ],
+      "x": 148,
+      "y": 78,
+      "width": 1269,
+      "height": 24
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Add this page to favorites (⌘D)",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1421,
+      "y": 78,
+      "width": 24,
+      "height": 24,
+      "shortcut": "⌘D"
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Favorites",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1453,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "History",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1489,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Profile 4 Profile, Please sign in",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1525,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Settings and more",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1561,
+      "y": 74,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Chat",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1597,
+      "y": 74,
+      "width": 75,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Copilot menu",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 1672,
+      "y": 74,
+      "width": 24,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypePopUpButton",
+      "label": "Time range Last hour",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 680,
+      "y": 596,
+      "width": 101,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeCheckBox",
+      "label": "Browsing history",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 680,
+      "y": 646,
+      "width": 20,
+      "height": 20
+    },
+    {
+      "type": "XCUIElementTypeCheckBox",
+      "label": "Download history",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 680,
+      "y": 710,
+      "width": 20,
+      "height": 20
+    },
+    {
+      "type": "XCUIElementTypeCheckBox",
+      "label": "Cookies and other site data",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 680,
+      "y": 774,
+      "width": 20,
+      "height": 20
+    },
+    {
+      "type": "XCUIElementTypeCheckBox",
+      "label": "Cached images and files",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 680,
+      "y": 838,
+      "width": 20,
+      "height": 20
+    },
+    {
+      "type": "XCUIElementTypeCheckBox",
+      "label": "Autofill form data (includes forms and cards)",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 680,
+      "y": 879,
+      "width": 20,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeCheckBox",
+      "label": "Site permissions",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 680,
+      "y": 879,
+      "width": 20,
+      "height": 1
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Cancel",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 902,
+      "y": 904,
+      "width": 68,
+      "height": 32
+    },
+    {
+      "type": "XCUIElementTypeButton",
+      "label": "Clear now",
+      "eligible_actions": [
+        "CLICK"
+      ],
+      "x": 977,
+      "y": 904,
+      "width": 87,
+      "height": 32
+    }
+  ],
+  "interactive_elements_count": 34,
+  "ui_tree": {
+    "tag": "Application",
+    "label": "Edge",
+    "children": [
+      {
+        "tag": "Window",
+        "label": "History",
+        "children": [
+          {
+            "tag": "Group",
+            "label": "History",
+            "children": [
+              {
+                "tag": "WebView",
+                "label": "History",
+                "children": [
+                  {
+                    "tag": "Button",
+                    "label": "History"
+                  },
+                  {
+                    "tag": "Toolbar",
+                    "children": [
+                      {
+                        "tag": "Button",
+                        "label": "Delete Browsing Data"
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "More options"
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "Pin history"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "SearchField",
+                    "label": "Search history",
+                    "children": [
+                      {
+                        "tag": "TextField"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "TabGroup",
+                    "children": [
+                      {
+                        "tag": "Tab",
+                        "label": "All"
+                      },
+                      {
+                        "tag": "Tab",
+                        "label": "Recently Closed"
+                      },
+                      {
+                        "tag": "Tab",
+                        "label": "Tabs From Other Devices"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Outline",
+                    "children": [
+                      {
+                        "tag": "OutlineRow",
+                        "label": "Today - Friday, April 17, 2026",
+                        "children": [
+                          {
+                            "tag": "Group",
+                            "children": [
+                              {
+                                "tag": "OutlineRow",
+                                "label": "E2E Coverage — Microsoft Edge, 2:32 AM, file:///Users/ljp-test-mac-mini/Proje..."
+                              },
+                              {
+                                "tag": "OutlineRow",
+                                "label": "Sign in to GitHub · GitHub, 2:11 AM, https://github.com/login?client_id=0120e..."
+                              },
+                              {
+                                "tag": "OutlineRow",
+                                "label": "Checking link, 1:44 AM, https://teams.df.onecdn.static.microsoft/evergreen-as..."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "OutlineRow",
+                        "label": "Yesterday - Thursday, April 16, 2026",
+                        "children": [
+                          {
+                            "tag": "Group",
+                            "children": [
+                              {
+                                "tag": "OutlineRow",
+                                "label": "Sign in to GitHub · GitHub, 7:24 PM, https://github.com/login?client_id=0120e..."
+                              },
+                              {
+                                "tag": "OutlineRow",
+                                "label": "edge//settings/appearance - Search, 2:23 AM, https://www.bing.com/search?pglt..."
+                              },
+                              {
+                                "tag": "OutlineRow",
+                                "label": "fix(appium): use macos:click for tap_coordinates on macOS by liujingping · Pu..."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "Window",
+        "label": "Settings - Microsoft Edge - Profile 4",
+        "children": [
+          {
+            "tag": "Group",
+            "label": "Settings - Microsoft Edge - Profile 4",
+            "children": [
+              {
+                "tag": "Group",
+                "children": [
+                  {
+                    "tag": "Toolbar",
+                    "label": "App bar",
+                    "children": [
+                      {
+                        "tag": "Button",
+                        "label": "Back"
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "Refresh"
+                      },
+                      {
+                        "tag": "Group",
+                        "children": [
+                          {
+                            "tag": "PopUpButton",
+                            "label": "View site information"
+                          },
+                          {
+                            "tag": "TextField",
+                            "label": "Address and search bar"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Add this page to favorites (⌘D)"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Group",
+                        "children": [
+                          {
+                            "tag": "Button",
+                            "label": "Favorites"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "History"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "Profile 4 Profile, Please sign in"
+                      },
+                      {
+                        "tag": "Button",
+                        "label": "Settings and more"
+                      },
+                      {
+                        "tag": "Group",
+                        "children": [
+                          {
+                            "tag": "Button",
+                            "label": "Chat"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Copilot menu"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "WebView",
+                    "label": "Settings",
+                    "children": [
+                      {
+                        "tag": "Group",
+                        "label": "Delete browsing data",
+                        "children": [
+                          {
+                            "tag": "Button",
+                            "label": "Close"
+                          },
+                          {
+                            "tag": "Group",
+                            "label": "Time range",
+                            "children": [
+                              {
+                                "tag": "PopUpButton",
+                                "label": "Time range Last hour"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Group",
+                            "children": [
+                              {
+                                "tag": "CheckBox",
+                                "label": "Browsing history"
+                              },
+                              {
+                                "tag": "CheckBox",
+                                "label": "Download history"
+                              },
+                              {
+                                "tag": "CheckBox",
+                                "label": "Cookies and other site data"
+                              },
+                              {
+                                "tag": "CheckBox",
+                                "label": "Cached images and files"
+                              },
+                              {
+                                "tag": "CheckBox",
+                                "label": "Autofill form data (includes forms and cards)"
+                              },
+                              {
+                                "tag": "CheckBox",
+                                "label": "Site permissions"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Cancel"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Clear now"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "TabGroup",
+                    "label": "Tab bar"
+                  }
+                ]
+              },
+              {
+                "tag": "Group",
+                "label": "History",
+                "children": [
+                  {
+                    "tag": "WebView",
+                    "label": "History",
+                    "children": [
+                      {
+                        "tag": "Button",
+                        "label": "History"
+                      },
+                      {
+                        "tag": "Toolbar",
+                        "children": [
+                          {
+                            "tag": "Button",
+                            "label": "Delete Browsing Data"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "More options"
+                          },
+                          {
+                            "tag": "Button",
+                            "label": "Pin history"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "SearchField",
+                        "label": "Search history",
+                        "children": [
+                          {
+                            "tag": "TextField"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "TabGroup",
+                        "children": [
+                          {
+                            "tag": "Tab",
+                            "label": "All"
+                          },
+                          {
+                            "tag": "Tab",
+                            "label": "Recently Closed"
+                          },
+                          {
+                            "tag": "Tab",
+                            "label": "Tabs From Other Devices"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Outline",
+                        "children": [
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Today - Friday, April 17, 2026",
+                            "children": [
+                              {
+                                "tag": "Group",
+                                "children": [
+                                  {
+                                    "tag": "OutlineRow",
+                                    "label": "E2E Coverage — Microsoft Edge, 2:32 AM, file:///Users/ljp-test-mac-mini/Proje..."
+                                  },
+                                  {
+                                    "tag": "OutlineRow",
+                                    "label": "Sign in to GitHub · GitHub, 2:11 AM, https://github.com/login?client_id=0120e..."
+                                  },
+                                  {
+                                    "tag": "OutlineRow",
+                                    "label": "Checking link, 1:44 AM, https://teams.df.onecdn.static.microsoft/evergreen-as..."
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "OutlineRow",
+                            "label": "Yesterday - Thursday, April 16, 2026",
+                            "children": [
+                              {
+                                "tag": "Group",
+                                "children": [
+                                  {
+                                    "tag": "OutlineRow",
+                                    "label": "Sign in to GitHub · GitHub, 7:24 PM, https://github.com/login?client_id=0120e..."
+                                  },
+                                  {
+                                    "tag": "OutlineRow",
+                                    "label": "edge//settings/appearance - Search, 2:23 AM, https://www.bing.com/search?pglt..."
+                                  },
+                                  {
+                                    "tag": "OutlineRow",
+                                    "label": "fix(appium): use macos:click for tap_coordinates on macOS by liujingping · Pu..."
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "Button"
+          },
+          {
+            "tag": "Button"
+          },
+          {
+            "tag": "Button"
+          }
+        ]
+      }
+    ]
+  },
+  "screenshot": "states/s_b298df01.png"
+}
